@@ -1,0 +1,14 @@
+title: Top Conference Deadlines
+description: Countdowns to top conference deadlines, including SE, AI, PL
+author: Zhuangbin Chen
+
+domain: "zbchern.github.io"
+baseurl: "/conferences"
+
+twitter_username: Davin Chen
+github_username: zbchern
+github_repo: conferences
+ga_id: UA-111008986-2
+
+markdown: kramdown
+
