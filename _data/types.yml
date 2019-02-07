@@ -1,7 +1,5 @@
 ---
-- name: Software Engineering
-  tag: SE
 - name: Artificial Intelligence
   tag: AI
-- name: Programming Language
-  tag: PL
+- name: Machine Learning
+  tag: ML
