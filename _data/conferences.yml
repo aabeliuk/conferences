@@ -67,6 +67,15 @@
   date: August 3-7, 2019
   place: Anchorage, Alaska, USA
   tags: ML
+  
+- name: ECMLPKDD
+  year: 2019
+  description: European Conference on Machine Learning
+  link: http://www.ecmlpkdd2019.org/
+  deadline: "2019-02-29 23:59:59"
+  date: September 16-20, 2019
+  place: Würzburg, Germany
+  tags: ML
 
 - name: CSCW
   year: 2019
