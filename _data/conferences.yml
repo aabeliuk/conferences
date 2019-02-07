@@ -58,3 +58,12 @@
   date: June 24-28, 2019
   place: Phoenix, AZ
   tags: AI
+
+- name: KDD
+  year: 2019
+  description: CONFERENCE ON KNOWLEDGE DISCOVERY AND DATA MINING
+  link: https://www.kdd.org/kdd2019
+  deadline: "2019-02-03 23:59:59"
+  date: August 3-7, 2019
+  place: Anchorage, Alaska, USA
+  tags: ML
