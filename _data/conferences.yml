@@ -45,7 +45,7 @@
   year: 2019
   description: Conference on Neural Information Processing Systems
   link: https://neurips.cc/Conferences/2019
-  deadline: '2019-05-23 13:00:00'
+  deadline: "2019-05-23 13:00"
   date: December 2-8, 2018
   place: "Palais des Congr\xE8s de Montr\xE9al, Montr\xE9al, Canada"
   tags: ML
