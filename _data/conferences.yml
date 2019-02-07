@@ -1,13 +1,4 @@
 ---
-- name: ICSE
-  description: International Conference on Software Engineering
-  year: 2019
-  link: https://2019.icse-conferences.org/
-  deadline: "2018-08-24 23:59"
-  date: "May 25 - May 31"
-  place: Montreal, QC, Canada
-  tags: SE
-
 
 - name: AAAI
   description: Association for the Advancement of Artificial Intelligence
@@ -30,45 +21,6 @@
   tags: AI
 
 
-- name: FSE
-  description: Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering 
-  year: 2019
-  link: http://esec-fse19.ut.ee/
-  deadline: "2019-02-20 23:59"
-  date: "August 26 - August 30"
-  place: Tallinn, Estonia
-  tags: SE
-
-
-- name: DSN
-  description: International Conference on Dependable Systems and Networks 
-  year: 2019
-  link: http://www.dsn.org/
-  deadline: "2018-12-07 23:59"
-  date: "June 24 - June 27"
-  place: Portland, Oregon, USA
-  tags: SE
-
-
-- name: PLDI
-  description: Programming Language Design and Implementation 
-  year: 2019
-  link: https://pldi19.sigplan.org/
-  deadline: "2018-11-16 23:59"
-  date: "June 24 - June 26"
-  place: Arizona, USA
-  tags: PL
-
-
-- name: ISSTA
-  description: International Symposium on Software Testing and Analysis 
-  year: 2019
-  link: https://conf.researchr.org/home/issta-2019/
-  deadline: "2019-01-28 23:59"
-  date: "July 15 - July 19"
-  place: Beijing, China
-  tags: SE, PL
-
 
 - name: IJCAI
   description: International Joint Conference on Artificial Intelligence 
@@ -78,3 +30,5 @@
   date: "August 10 - August 16"
   place: Macao, China
   tags: AI
+  
+  
