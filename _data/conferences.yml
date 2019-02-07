@@ -67,3 +67,12 @@
   date: August 3-7, 2019
   place: Anchorage, Alaska, USA
   tags: ML
+
+- name: cscw
+  year: 2019
+  description: Conference on Computer-Supported Cooperative Work and Social Computing
+  link: https://cscw.acm.org/2019/
+  deadline: '2019-03-28 23:59:59'
+  date: November 9-13, 2019
+  place: Austin, Texas USA
+  tags: CSC
