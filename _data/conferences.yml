@@ -5,7 +5,8 @@
   year: 2020
   description: Conference on Fairness, Accountability, and Transparency
   link: https://fatconference.org/
-  deadline: '2019-08-23 23:59:59'
+  deadline: '2019-08-23 23:59'
+  timezone: Etc/GMT+10
   date: Jan 26-30, 2020
   place: Barcelona, Spain 
   tags: CSC, ML
@@ -16,7 +17,8 @@
   year: 2019
   description: Conference on Human Computation and Crowdsourcing 
   link: https://www.humancomputation.com/
-  deadline: '2019-06-03 23:59:59'
+  deadline: '2019-06-03 23:59'
+  timezone: Etc/GMT+10
   date: Oct 28-30, 2019
   place: Portland, Oregon 
   tags: CSC, ML
@@ -57,7 +59,7 @@
 - name: UAI
   year: 2019
   link: http://auai.org/uai2019/
-  deadline: '2019-03-08 23:59:59'
+  deadline: "2019-03-08 23:59:59"
   date: July 22-26, 2019
   place: Tel Aviv, Israel
   tags: ML
