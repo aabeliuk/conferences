@@ -1,7 +1,7 @@
 ---
 
 
-- name: ACM FAT*
+- name: ACM FAT
   year: 2020
   description: Conference on Fairness, Accountability, and 
 Transparency
@@ -9,6 +9,17 @@ Transparency
   deadline: '2019-08-23 23:59:59'
   date: Jan 26-30, 2020
   place: Barcelona, Spain 
+  tags: CSC, ML
+
+
+
+- name: HCOMP
+  year: 2019
+  description: Conference on Human Computation and Crowdsourcing 
+  link: https://www.humancomputation.com/
+  deadline: '2019-06-03 23:59:59'
+  date: Oct 28-30, 2019
+  place: Portland, Oregon 
   tags: CSC, ML
 
 
