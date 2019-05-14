@@ -1,5 +1,17 @@
 ---
 
+
+- name: ACM FAT*
+  year: 2020
+  description: Conference on Fairness, Accountability, and 
+Transparency
+  link: https://fatconference.org/
+  deadline: '2019-08-23 23:59:59'
+  date: Jan 26-30, 2020
+  place: Barcelona, Spain 
+  tags: CSC, ML
+
+
 - name: AAAI
   description: Association for the Advancement of Artificial Intelligence
   year: 2019
